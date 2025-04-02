@@ -1,0 +1,11 @@
+.bg-warning {
+    background-color: #00ff15 !important;
+}
+
+.navbar-nav .nav-item.dropdown .dropdown-menu li:last-child {
+    background-color: red;
+}
+
+.dropdown-menu {
+    background-color: blue;
+}
